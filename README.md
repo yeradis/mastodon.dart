@@ -1,2 +1,2 @@
 # mastodon.dart
-mastodon client for Dart
+[Mastodon's](https://joinmastodon.org) API client library for Dart
